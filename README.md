@@ -5,6 +5,7 @@ The objective of this project is to simulate how organizations create and implem
 This policy was designed for a simulated fintech organization (NovaPay Fintech Ltd) to demonstrate practical Governance, Risk and Compliance (GRC) documentation skills.
 
 
+
 Project Objectives
 
 The goal of this project is to demonstrate how organizations:
@@ -77,6 +78,7 @@ Defines expectations for adherence to the policy and consequences of non-complia
 8. Review and Maintenance
 
 Establishes the process for periodic policy review and continuous improvement.
+
 
 
 Skills Demonstrated
